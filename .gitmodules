@@ -1,4 +1,4 @@
 [submodule "sdk"]
 	path = sdk
-	url = https://github.com/bigclownlabs/bc-core-module-sdk.git
+	url = https://github.com/examinos/bc-core-module-sdk.git
 
