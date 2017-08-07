@@ -1,3 +1,4 @@
 [submodule "sdk"]
 	path = sdk
-	url = ../bcf-sdk-core-module.git
+	url = https://github.com/bigclownlabs/bc-core-module-sdk.git
+
